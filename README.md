@@ -1,1 +1,1 @@
-# smerp-api
+# SMERP-API
